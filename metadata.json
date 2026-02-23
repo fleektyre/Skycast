@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast Weather",
+  "description": "A beautiful, real-time weather application powered by Gemini and Google Search. Simply type a location to see current conditions instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
